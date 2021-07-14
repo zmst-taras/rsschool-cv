@@ -2,6 +2,7 @@
 # Taras Shamrai
 
 ***
+
 #### C O N T A C T S
 + tel: +1111111
 + email: rapeme01@gmail.com
@@ -10,6 +11,7 @@
 
 ***
 #### L A N G U A G E 
+
 |Native|Fluent|Advanced|Pre-Intermediate|
 |:----|:----|:----|:----|
 Ukrainian|Russian|Italian|English Pre-Intermediate
@@ -23,6 +25,7 @@ Ukrainian|Russian|Italian|English Pre-Intermediate
 • SQL
 • Figma
 ___
+
 #### C O U R S E S
 
 - FRONT-END ADVANCED
@@ -31,7 +34,9 @@ CURSOR EDUCATION // Feb 2021 - May 2021
 
 
 ***
+
 #### P E R S O N A L_P R O F I L E
+
 ```
 I'm looking for a trainee/ junior
 developer position with the
