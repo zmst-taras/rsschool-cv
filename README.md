@@ -1,2 +1,3 @@
 # rsschool-cv
-studying
+
+https://zmst-taras.github.io/rsschool-cv/cv
